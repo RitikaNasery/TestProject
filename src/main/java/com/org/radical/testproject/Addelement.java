@@ -12,6 +12,8 @@ public class Addelement {
 	    students.add("John");
 	    students.add("Jane");
 	    students.add("Doe");
+	    students.add("Doe");
+	    
 	    
 	    
 	    System.out.println(students);
